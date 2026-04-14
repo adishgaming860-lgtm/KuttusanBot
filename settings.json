@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Kunchapan Afk bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Horizons1-Fy2c.aternos.me",
+    "port": 62420,
     "version": "",
     "try-creative": false
   },
